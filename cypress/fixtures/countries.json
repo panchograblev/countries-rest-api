@@ -1,0 +1,212 @@
+[
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ch.png",
+      "svg": "https://flagcdn.com/ch.svg"
+    },
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation",
+      "nativeName": {
+        "fra": {
+          "official": "Confédération suisse",
+          "common": "Suisse"
+        },
+        "gsw": {
+          "official": "Schweizerische Eidgenossenschaft",
+          "common": "Schweiz"
+        },
+        "ita": {
+          "official": "Confederazione Svizzera",
+          "common": "Svizzera"
+        },
+        "roh": {
+          "official": "Confederaziun svizra",
+          "common": "Svizra"
+        }
+      }
+    },
+    "tld": [
+      ".ch"
+    ],
+    "cca3": "CHE",
+    "currencies": {
+      "CHF": {
+        "name": "Swiss franc",
+        "symbol": "Fr."
+      }
+    },
+    "capital": [
+      "Bern"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "population": 17500657,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/no.png",
+      "svg": "https://flagcdn.com/no.svg"
+    },
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway",
+      "nativeName": {
+        "nno": {
+          "official": "Kongeriket Noreg",
+          "common": "Noreg"
+        },
+        "nob": {
+          "official": "Kongeriket Norge",
+          "common": "Norge"
+        },
+        "smi": {
+          "official": "Norgga gonagasriika",
+          "common": "Norgga"
+        }
+      }
+    },
+    "tld": [
+      ".no"
+    ],
+    "cca3": "NOR",
+    "currencies": {
+      "NOK": {
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    },
+    "capital": [
+      "Oslo"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokmål",
+      "smi": "Sami"
+    },
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "population": 5379475,
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/nz.png",
+      "svg": "https://flagcdn.com/nz.svg"
+    },
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand",
+      "nativeName": {
+        "eng": {
+          "official": "New Zealand",
+          "common": "New Zealand"
+        },
+        "mri": {
+          "official": "Aotearoa",
+          "common": "Aotearoa"
+        },
+        "nzs": {
+          "official": "New Zealand",
+          "common": "New Zealand"
+        }
+      }
+    },
+    "tld": [
+      ".nz"
+    ],
+    "cca3": "NZL",
+    "currencies": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Wellington"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "borders": [],
+    "population": 5084300,
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/cl.png",
+      "svg": "https://flagcdn.com/cl.svg"
+    },
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "nativeName": {
+        "spa": {
+          "official": "República de Chile",
+          "common": "Chile"
+        }
+      }
+    },
+    "tld": [
+      ".cl"
+    ],
+    "cca3": "CHL",
+    "currencies": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "capital": [
+      "Santiago"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "population": 19116209,
+    "continents": [
+      "South America"
+    ]
+  },
+  {"flags":{"png":"https://flagcdn.com/w320/at.png","svg":"https://flagcdn.com/at.svg"},"name":{"common":"Austria","official":"Republic of Austria","nativeName":{"bar":{"official":"Republik Österreich","common":"Österreich"}}},"tld":[".at"],"cca3":"AUT","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Vienna"],"region":"Europe","subregion":"Central Europe","languages":{"bar":"Austro-Bavarian German"},"borders":["CZE","DEU","HUN","ITA","LIE","SVK","SVN","CHE"],"population":8917205,"continents":["Europe"]},
+  {"flags":{"png":"https://flagcdn.com/w320/it.png","svg":"https://flagcdn.com/it.svg"},"name":{"common":"Italy","official":"Italian Republic","nativeName":{"ita":{"official":"Repubblica italiana","common":"Italia"}}},"tld":[".it"],"cca3":"ITA","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Rome"],"region":"Europe","subregion":"Southern Europe","languages":{"ita":"Italian"},"borders":["AUT","FRA","SMR","SVN","CHE","VAT"],"population":59554023,"continents":["Europe"]},
+  {"flags":{"png":"https://flagcdn.com/w320/de.png","svg":"https://flagcdn.com/de.svg"},"name":{"common":"Germany","official":"Federal Republic of Germany","nativeName":{"deu":{"official":"Bundesrepublik Deutschland","common":"Deutschland"}}},"tld":[".de"],"cca3":"DEU","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Berlin"],"region":"Europe","subregion":"Western Europe","languages":{"deu":"German"},"borders":["AUT","BEL","CZE","DNK","FRA","LUX","NLD","POL","CHE"],"population":83240525,"continents":["Europe"]},
+  {"flags":{"png":"https://flagcdn.com/w320/fr.png","svg":"https://flagcdn.com/fr.svg"},"name":{"common":"France","official":"French Republic","nativeName":{"fra":{"official":"République française","common":"France"}}},"tld":[".fr"],"cca3":"FRA","currencies":{"EUR":{"name":"Euro","symbol":"€"}},"capital":["Paris"],"region":"Europe","subregion":"Western Europe","languages":{"fra":"French"},"borders":["AND","BEL","DEU","ITA","LUX","MCO","ESP","CHE"],"population":67391582,"continents":["Europe"]},
+  {"flags":{"png":"https://flagcdn.com/w320/li.png","svg":"https://flagcdn.com/li.svg"},"name":{"common":"Liechtenstein","official":"Principality of Liechtenstein","nativeName":{"deu":{"official":"Fürstentum Liechtenstein","common":"Liechtenstein"}}},"tld":[".li"],"cca3":"LIE","currencies":{"CHF":{"name":"Swiss franc","symbol":"Fr"}},"capital":["Vaduz"],"region":"Europe","subregion":"Western Europe","languages":{"deu":"German"},"borders":["AUT","CHE"],"population":38137,"continents":["Europe"]}
+]
