@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/panchograblev/countries-rest-api](https://github.com/panchograblev/countries-rest-api)
-- Live Site URL: [https://www.netlify.com/](https://netlify.com/)
+- Live Site URL: [https://www.netlify.com/](https://admiring-mayer-a86ccd.netlify.app/)
 
 ### Built with
 
